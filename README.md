@@ -68,7 +68,7 @@ use easy_debug::{
     dbg_xprint as dbg_xp,
     dbg_xprintln as dbg_xpln,
     dbg_xeprint as dbg_xep,
-    dbg_exprintln as dbg_xepln,
+    dbg_xeprintln as dbg_xepln,
 };
 
 let debug_str_val = "debug string value";
